@@ -4,7 +4,7 @@ My first node.js app, a very simplified version of Siri, called Liri
 
 ## Getting Started
 
-Made sure you have node.js installed on your system. You will also need to get your own API keys and secrets for your Twitter account. Details on that below. Then run "node liri.js" in your terminal or console.
+Made sure you have node.js installed on your system. You will also need to get your own API keys and secrets for your Twitter account. Details on that below. Then run "node liri.js" in your terminal/CLI.
 
 ### Prerequisites
 
